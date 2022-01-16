@@ -7,24 +7,24 @@
 /* LAto */
 @font-face {
     font-family: LatoR;
-    src: url(/fonts/lato/Lato-Regular.ttf);
+    src: url(../fonts/lato/Lato-Regular.ttf);
 }
 
 @font-face {
     font-family: LatoB;
-    src: url(/fonts/lato/Lato-Bold.ttf);
+    src: url(../fonts/lato/Lato-Bold.ttf);
 }
 
 @font-face {
     font-family: eurofurenceR;
-    src: url(/fonts/eurofurence/eurof55.ttf);
+    src: url(../fonts/eurofurence/eurof55.ttf);
 }
 
 /* Font Awesome */
 
 @font-face {
     font-family: 'fa';
-    src: url(/fonts/fa/fa-brands-400.ttf);
+    src: url(../fonts/fa/fa-brands-400.ttf);
 }
 
 /* BASIC */
