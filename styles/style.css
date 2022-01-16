@@ -84,7 +84,7 @@ p {
   }
   
   .main-header .logo span{
-    color:green;
+    color: #58c93a;
   }
   
   .nav-links {
@@ -103,8 +103,8 @@ p {
   }
   
   .main-header a:hover {
-    color: green;
-    border-bottom: 6px solid green;
+    color: #58c93a;
+    border-bottom: 6px solid #58c93a;
     background-color: #292929;
   }
   
