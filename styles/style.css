@@ -157,12 +157,21 @@ p {
     padding: 9px 24px 9px 24px;
 }
 
+.right-card .card-button span{
+    display:none;
+
+}
+
+.right-card .card-button:hover span{
+    display:contents;
+}
+
+
 .right-card .card-button:hover {
     color: #58c93a;
     border: 2px solid #58c93a;
     cursor: pointer;
-    padding: 9px 50px 9px 24px;
-    content: '→';
+    padding: 9px 20px 9px 24px;
 }
 
 /* paging */
