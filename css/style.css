@@ -586,6 +586,12 @@ footer .social .dribbble.icons:hover {
   display: flex;
   flex-direction: row;
 }
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
 .left-card {
   width: 468px;
   flex-basis: 468px;
@@ -603,3 +609,23 @@ footer .social .dribbble.icons:hover {
   list-style-type: none;
 }
 
+
+
+@media (max-width: 740px) {
+  .flex-row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  img {
+    width: 600px;
+    padding-left: 50px;
+  }
+  .right-card {
+    width: 550px;
+    margin-left: 50px;
+    /* padding-right: 20px; */
+    margin-top: 60px;
+
+  }
+}
