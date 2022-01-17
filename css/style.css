@@ -616,16 +616,25 @@ footer .social .dribbble.icons:hover {
     display: flex;
     flex-direction: column;
   }
+  body{
+    width: fit-content;
+  }
 
   img {
-    width: 600px;
+    width: 500px;
     padding-left: 50px;
   }
   .right-card {
-    width: 550px;
+    width: 500px;
     margin-left: 50px;
-    /* padding-right: 20px; */
     margin-top: 60px;
+  }
+
+  .right-card .card-text1{
+     width: 450px;
 
   }
+  .right-card .card-text2{
+    width: 450px;
+ }
 }
